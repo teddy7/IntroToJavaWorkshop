@@ -7,9 +7,4 @@ public class MyFirstJavaProgram {
 	public static void main(String[] args) {
 		
 		// START HERE
-
-	
-		
-		
-	}
-}
+Robot MrDan=new Robot();
